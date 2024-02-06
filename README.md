@@ -53,3 +53,7 @@ The model was trained to classify images into 38 classes:
 36. Tomato - Yellow Leaf Curl Virus
 37. Tomato - Tomato Mosaic Virus
 38. Tomato - Healthy
+
+## Demo
+
+Check out the demo at [HuggingFace Spaces](https://huggingface.co/spaces/jacquelinegrimm/plant-dx).
